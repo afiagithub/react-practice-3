@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "math": 85,
+      "biology": 70,
+      "physics": 75,
+      "english": 90
+    },
+    {
+      "id": 2,
+      "math": 78,
+      "biology": 65,
+      "physics": 80,
+      "english": 85
+    },
+    {
+      "id": 3,
+      "math": 92,
+      "biology": 88,
+      "physics": 95,
+      "english": 89
+    },
+    {
+      "id": 4,
+      "math": 70,
+      "biology": 75,
+      "physics": 68,
+      "english": 72
+    },
+    {
+      "id": 5,
+      "math": 83,
+      "biology": 79,
+      "physics": 87,
+      "english": 84
+    },
+    {
+      "id": 6,
+      "math": 88,
+      "biology": 91,
+      "physics": 86,
+      "english": 90
+    },
+    {
+      "id": 7,
+      "math": 76,
+      "biology": 82,
+      "physics": 78,
+      "english": 80
+    },
+    {
+      "id": 8,
+      "math": 95,
+      "biology": 94,
+      "physics": 96,
+      "english": 92
+    },
+    {
+      "id": 9,
+      "math": 82,
+      "biology": 85,
+      "physics": 81,
+      "english": 87
+    },
+    {
+      "id": 10,
+      "math": 79,
+      "biology": 83,
+      "physics": 77,
+      "english": 80
+    }
+  ]
+  

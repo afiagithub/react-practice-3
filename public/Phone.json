@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "phone_name": "iPhone 13 Pro",
+      "price": 999,
+      "brand": "Apple",
+      "release_date": "2021-09-24",
+      "ram": "6 GB",
+      "memory": "128 GB",
+      "camera_quality": "12 MP + 12 MP + 12 MP"
+    },
+    {
+      "id": 2,
+      "phone_name": "Samsung Galaxy S21 Ultra",
+      "price": 1199,
+      "brand": "Samsung",
+      "release_date": "2021-01-29",
+      "ram": "12 GB",
+      "memory": "256 GB",
+      "camera_quality": "108 MP + 10 MP + 10 MP + 12 MP"
+    },
+    {
+      "id": 3,
+      "phone_name": "Google Pixel 6 Pro",
+      "price": 899,
+      "brand": "Google",
+      "release_date": "2021-10-19",
+      "ram": "12 GB",
+      "memory": "128 GB",
+      "camera_quality": "50 MP + 12 MP + 48 MP"
+    },
+    {
+      "id": 4,
+      "phone_name": "OnePlus 9 Pro",
+      "price": 969,
+      "brand": "OnePlus",
+      "release_date": "2021-03-23",
+      "ram": "8 GB",
+      "memory": "256 GB",
+      "camera_quality": "48 MP + 50 MP + 8 MP"
+    },
+    {
+      "id": 5,
+      "phone_name": "Xiaomi Mi 11 Ultra",
+      "price": 1199,
+      "brand": "Xiaomi",
+      "release_date": "2021-05-11",
+      "ram": "12 GB",
+      "memory": "256 GB",
+      "camera_quality": "50 MP + 48 MP + 48 MP"
+    }
+  ]
+  
